@@ -1,4 +1,0 @@
-Hello Rns
-This is first line from dev1 Workspace
-This is the 3rd line from dev1 ws
-This is 2nd line from Dev2 ws
